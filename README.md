@@ -30,3 +30,14 @@ The versatility of Amazon EC2 stems from its extensive range of instance types, 
 **Accelerated Computing Instances (P4, P3, P2, Inf1, F1):** Accelerated computing instances are equipped with specialized hardware, such as GPUs or FPGAs, to accelerate specific workloads like machine learning, graphics rendering, and video processing.
 
 **Bare Metal Instances (i3.metal, i3en.metal):** Bare metal instances provide direct access to the underlying hardware without virtualization. These instances are suitable for applications that require access to physical resources for performance optimization or compliance reasons.
+
+# Steps to set up an EC2 instance:
+
+# Step 1: Sign in to the AWS Management Console
+1.Navigate to the AWS Management Console.
+2.Sign in with your AWS account credentials.
+
+# Step 2: Access the EC2 Dashboard 
+
+1.In the AWS Management Console, find the "Services" dropdown in the top left corner.
+2.Under "Compute," select "EC2" to access the EC2 Dashboard.
