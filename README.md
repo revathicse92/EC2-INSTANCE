@@ -52,4 +52,39 @@ In the EC2 Dashboard, click the "Launch Instance" button.
 
 ![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/e3e26cc0b1b8dcbcee3c2d15f95f13c1091167d1/EC2-SCREENSHOT/Launch%20an%20Instance.PNG)  
 
+# Step 4: Choose an Amazon Machine Image (AMI) and give name to your server
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/85a181d6b6610755b4282a2f079b7bef096a57c1/EC2-SCREENSHOT/Choose%20an%20Amazon%20Machine%20Image%20(AMI)%20and%20give%20name%20to%20your%20server.PNG)    
+
+
+# Step 5: Select Key Pair
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/85a181d6b6610755b4282a2f079b7bef096a57c1/EC2-SCREENSHOT/Select%20your%20instance%20type%20and%20key%20pair.PNG) 
+
+# Step 6: Create Key Pair to Securely Launch Your Instance
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/85a181d6b6610755b4282a2f079b7bef096a57c1/EC2-SCREENSHOT/create%20key%20pair%20to%20securely%20launch%20your%20instance.PNG) 
+
+# Step 7: Select Your Network Settings and Security Group
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/85a181d6b6610755b4282a2f079b7bef096a57c1/EC2-SCREENSHOT/select%20your%20network%20settings%20and%20security%20group.PNG) 
+
+# Step 8: Configure Your Storage As Per Your Need of The Project
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/85a181d6b6610755b4282a2f079b7bef096a57c1/EC2-SCREENSHOT/configure%20your%20storage%20as%20per%20your%20need%20of%20the%20project.PNG)
+
+# Step 9: Configure Instance Details with User Data
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/85a181d6b6610755b4282a2f079b7bef096a57c1/EC2-SCREENSHOT/Configure%20Instance%20Details%20with%20User%20Data.PNG) 
+
+# Step 10: View Instances
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/85a181d6b6610755b4282a2f079b7bef096a57c1/EC2-SCREENSHOT/View%20Instances.PNG)
+
+# Step 11: Final output of the Ec2 Instance
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/85a181d6b6610755b4282a2f079b7bef096a57c1/EC2-SCREENSHOT/Final%20output%20of%20the%20Ec2%20Instance.PNG)
+
+
+
 
