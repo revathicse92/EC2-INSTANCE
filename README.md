@@ -35,9 +35,21 @@ The versatility of Amazon EC2 stems from its extensive range of instance types, 
 
 # Step 1: Sign in to the AWS Management Console
 1.Navigate to the AWS Management Console.
+
 2.Sign in with your AWS account credentials.
 
 # Step 2: Access the EC2 Dashboard 
 
 1.In the AWS Management Console, find the "Services" dropdown in the top left corner.
+
 2.Under "Compute," select "EC2" to access the EC2 Dashboard.
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/e3e26cc0b1b8dcbcee3c2d15f95f13c1091167d1/EC2-SCREENSHOT/Access%20the%20EC2%20Dashboard.PNG)  
+
+# Step 3: Launch an Instance
+
+In the EC2 Dashboard, click the "Launch Instance" button.
+
+![Image Alt](https://github.com/revathicse92/EC2-INSTANCE/blob/e3e26cc0b1b8dcbcee3c2d15f95f13c1091167d1/EC2-SCREENSHOT/Launch%20an%20Instance.PNG)  
+
+
