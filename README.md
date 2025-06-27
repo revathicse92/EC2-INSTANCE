@@ -20,8 +20,13 @@ Amazon EC2 is a web service that provides resizable compute capacity in the clou
 The versatility of Amazon EC2 stems from its extensive range of instance types, each tailored to meet specific performance and resource requirements. Instance types are categorized based on families, and within each family, there are different sizes or generations. Let's explore some of the prominent instance families:
 
 **General Purpose Instances (T3, T4g, M6g, M5, M5a, M5n, M5zn) :** General-purpose instances are well-suited for a diverse set of applications, offering a balance of compute, memory, and networking resources. T3 instances, for example, are burstable performance instances, making them cost-effective for applications with variable workloads.
+
 **Compute Optimized Instances (C7g, C6g, C5, C5a, C5n):** Compute optimized instances are designed for compute-bound applications that require high-performance processors. These instances are ideal for tasks such as batch processing, scientific modeling, and high-performance computing.
+
 **Memory Optimized Instances (R7, R6g, R5, R5a, R5n, U4sg, X1e, U-6tb1.metal):** Memory optimized instances are crafted for memory-intensive workloads, such as in-memory databases and real-time big data analytics. These instances provide a substantial amount of RAM to handle large datasets efficiently.
+
 **Storage Optimized Instances (I3, I3en, D2, H1):** Storage optimized instances are geared towards applications that demand high, sequential read and write access to very large data sets. Use cases include NoSQL databases, data warehousing, and distributed file systems.
+
 **Accelerated Computing Instances (P4, P3, P2, Inf1, F1):** Accelerated computing instances are equipped with specialized hardware, such as GPUs or FPGAs, to accelerate specific workloads like machine learning, graphics rendering, and video processing.
+
 **Bare Metal Instances (i3.metal, i3en.metal):** Bare metal instances provide direct access to the underlying hardware without virtualization. These instances are suitable for applications that require access to physical resources for performance optimization or compliance reasons.
